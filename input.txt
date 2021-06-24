@@ -1,0 +1,5 @@
+var x = 10;
+var y = Michael joseph;
+var z = 4.09;
+var u = 999;
+print("my number is {x}, my name is {y}, {z}, {u}")
